@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <productenlijst>
+    <product nummer="121">
+        <code>ABC123</code>
+        <naam>Highlight pen</naam>
+        <vooraad>231</vooraad>
+        <prijs>0.56</prijs>
+    </product>
+    <product nummer="123">
+        <code>PQR678</code>
+        <naam>Nietmachine</naam>
+        <vooraad>587</vooraad>
+        <prijs>9.99</prijs>
+    </product>
+    <product nummer="128">
+        <code>ZYX163</code>
+        <naam>Bureaulamp</naam>
+        <vooraad>34</vooraad>
+        <prijs>19.95</prijs>
+    </product>
+    <product nummer="137">
+        <code>MLK709</code>
+        <naam>Monitorstandaard</naam>
+        <vooraad>66</vooraad>
+        <prijs>32.50</prijs>
+    </product>
+    <product nummer="271">
+        <code>TRS665</code>
+        <naam>Ipad hoes</naam>
+        <vooraad>155</vooraad>
+        <prijs>19.01</prijs>
+    </product>
+</productenlijst>
